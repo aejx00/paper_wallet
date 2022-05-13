@@ -9,15 +9,15 @@ Create Bitcoin, Ethereum, and Dogecoin paper wallets. Allows the user to save/pr
 
 Menu
 
-![image info](./docs/menu.png)
+![](docs/menu.png)
 
 Output Example
 
-![image info](./docs/output.png)
+![](docs/output.png)
 
 Load Prompt
 
-![image info](./docs/load.png)
+![](docs/load.png)
 
 ### Dependencies
 
